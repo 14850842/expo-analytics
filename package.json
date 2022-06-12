@@ -1,0 +1,11 @@
+{
+  "name": "expo-analytics",
+  "version": "0.2.1",
+  "description": "Hack for google playstore",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "expo",
+    "expo-json-utils"
+  ]
+}
